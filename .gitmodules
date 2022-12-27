@@ -1,0 +1,3 @@
+[submodule "blockjumper"]
+	path = blockjumper
+	url = git@github.com:davidabrahams/blockjumper-web.git
